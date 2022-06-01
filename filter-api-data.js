@@ -1,3 +1,3 @@
 function filterApiData(apiData, mandatoryKeys) {
-  // Add you solution here
+  // leeren array zum returnen oder values eingeben
 }
